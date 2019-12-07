@@ -10,7 +10,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/devesh"><img src="https://avatars0.githubusercontent.com/u/9482?v=4" width="100px;" alt="Devesh Parekh"/><br /><sub><b>Devesh Parekh</b></sub></a><br /><a href="https://github.com/codeuino/gci/commits?author=devesh" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/devesh-verma"><img src="https://avatars0.githubusercontent.com/u/9482?v=4" width="100px;" alt="Devesh Verma"/><br /><sub><b>Devesh Parekh</b></sub></a><br /><a href="https://github.com/codeuino/gci/commits?author=devesh" title="Code">💻</a></td>
   </tr>
 </table>
 
