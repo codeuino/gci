@@ -1,12 +1,16 @@
-# Please add your entries to a random position in the file.
-# This is to remove conflicts with other people adding entries.
+# Please follow the format :
+# - name: Contributor's name
+#   country: Contributor's Country / Region
+#   github: Contributor's Github Username
+#   twitter: Contributor's Twitter ID
+#   facebook: Contributor's Facebook ID
+#   lat: Contributor's Latitude
+#   lng: Contributor's Longitude
 
-# The Format is :
-# - name: Student's name
-#   country: Student's Country / Region
-#   github: Student's Github Username
-#   image: Student's image (or representation like a "nick" image)
-#   twitter: Student's Twitter ID
-#   facebook: Student's Facebook ID
-#   lat: Student's Latitude
-#   lng: Student's Longitude
+- name: Devesh Verma
+  country: India
+  github: devesh-verma
+  twitter: This_is_Devesh_
+  facebook: AlliNeedMoney
+  lat: 12.965474
+  lng: 77.627503
