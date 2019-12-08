@@ -1,6 +1,15 @@
-# Introduction
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
+* The purpose of this repo is to help you awesome GCI contributors get familiar with the github workflow and how it works.
+* Excited to move forward?? Please follow along.
+
+## How to Contribute?
+- Add yourself to [contributors.yml](./_data/contributors) in the format specified.    
+- Join our channel on [slack](http://slack.codeuino.org/).
+- DONE!!
+
+## Steps:
+- 1. Navigate to contirbutor.yml by clicking [here](./_data/contributors).
 
 ## Contributors ✨
 
